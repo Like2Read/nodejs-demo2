@@ -11,5 +11,8 @@
     "cli"
   ],
   "author": "like2read",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.0"
+  }
 }
